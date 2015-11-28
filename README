@@ -1,0 +1,3 @@
+This is just a note to self on an example listen socket, I didn't need to
+connections, so this is somewhat useless for most use cases, but I did
+need to use syscalls and not the net.Listen from Go's standard library.
